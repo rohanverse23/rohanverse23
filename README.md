@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohan  
+### Aspiring Full-Stack Developer | AI & Tech Enthusiast | Future Lawyer
 
-<!--
-**rohanverse23/rohanverse23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently preparing for law school while actively building strong tech skills in **Web Development, JavaScript, React, Node.js & AI tools**.  
+My goal is to combine **law + technology** and build impactful digital solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Learning **Full-Stack Web Development** (HTML, CSS, JS, React, Node)
+- Building real-world projects for my portfolio  
+- Improving problem-solving & coding consistency  
+- Exploring AI, automation & digital tools  
+
+---
+
+## 📌 Skills I'm Developing
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express  
+- **Tools:** Git, GitHub, VS Code  
+- **Learning:** API integration, Databases, Authentication  
+
+---
+
+## 🌱 2026 Goals
+✔ Build 5–7 strong portfolio projects  
+✔ Get internship opportunities in tech  
+✔ Publish my first open-source contribution  
+✔ Become financially independent through tech + investing  
+
+---
+
+## 📫 Connect With Me
+- GitHub: **[@rohanverse23](https://github.com/rohanverse23)**  
+- (Add more when you're ready)
+
+---
+
+### 🔥 Motto  
+**“Learning daily, building consistently, growing intentionally.”**
+
