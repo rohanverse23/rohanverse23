@@ -32,7 +32,6 @@ My goal is to combine **law + technology** and build impactful digital solutions
 
 ## 📫 Connect With Me
 - GitHub: **[@rohanverse23](https://github.com/rohanverse23)**  
-- (Add more when you're ready)
 
 ---
 
