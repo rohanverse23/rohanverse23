@@ -39,14 +39,13 @@
 
 ---
 
-### 🌐 Connect With Me
-💼 GitHub: **rohanverse23**  
-✨ More links coming soon...
+### 🔥 Motto  
+**“Learning daily, building consistently, growing intentionally.”**
 
 ---
 
-### 🔥 Motto  
-**“Learning daily, building consistently, growing intentionally.”**
+### 🌐 Connect With Me
+💼 GitHub: **rohanverse23**
 
 ---
 
