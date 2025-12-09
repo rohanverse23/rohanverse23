@@ -1,40 +1,54 @@
-# 👋 Hi, I'm Rohan  
-### Aspiring Full-Stack Developer | AI & Tech Enthusiast | Future Lawyer
+<h1 align="center">👋 Hi, I'm Rohan (rohanverse23)</h1>
 
-I'm currently preparing for law school while actively building strong tech skills in **Web Development, JavaScript, React, Node.js & AI tools**.  
-My goal is to combine **law + technology** and build impactful digital solutions.
-
----
-
-## 🚀 What I'm Working On
-- Learning **Full-Stack Web Development** (HTML, CSS, JS, React, Node)
-- Building real-world projects for my portfolio  
-- Improving problem-solving & coding consistency  
-- Exploring AI, automation & digital tools  
+<p align="center">
+  🚀 Aspiring Full-Stack Developer | 📚 Law + Tech Explorer | 💡 AI Enthusiast  
+</p>
 
 ---
 
-## 📌 Skills I'm Developing
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express  
-- **Tools:** Git, GitHub, VS Code  
-- **Learning:** API integration, Databases, Authentication  
+### 👨‍💻 About Me
+- 🔥 Currently building my tech foundation (HTML, CSS, JS, React, Node)
+- 💼 Goal: Secure tech internships through real projects  
+- 🎯 Mission: Achieve financial freedom with skills + smart investing  
+- 🧠 Interests: AI, Web Dev, Game Dev, Automation, Startups  
 
 ---
 
-## 🌱 2026 Goals
-✔ Build 5–7 strong portfolio projects  
-✔ Get internship opportunities in tech  
-✔ Publish my first open-source contribution  
-✔ Become financially independent through tech + investing  
+### 🛠️ Tech Stack I'm Learning  
+**Frontend:**  
+`HTML` • `CSS` • `JavaScript` • `React`
+
+**Backend:**  
+`Node.js` • `Express.js`  
+
+**Database:**  
+`MongoDB`
 
 ---
 
-## 📫 Connect With Me
-- GitHub: **[@rohanverse23](https://github.com/rohanverse23)**  
+### 🚀 Current Focus
+- Building real-world projects  
+- Strengthening fundamentals  
+- Learning problem-solving  
+- Growing my dev portfolio  
+
+---
+
+### 📈 My Vision
+> “From law + tech student → to skilled developer with real projects → to early financial freedom.”
+
+---
+
+### 🌐 Connect With Me
+💼 GitHub: **rohanverse23**  
+✨ More links coming soon...
 
 ---
 
 ### 🔥 Motto  
 **“Learning daily, building consistently, growing intentionally.”**
+
+---
+
+⭐ If you visit my profile, don’t forget to star my repositories!
 
